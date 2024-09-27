@@ -1,5 +1,5 @@
 # learnOpenGL
-resource are from https://learnopengl.com/
+resources are from https://learnopengl.com/
 
 mixed with individual attempts
 
