@@ -1,4 +1,4 @@
-# tinyRenderer
+# learnOpenGL
 resource are from https://learnopengl.com/
 
 mixed with individual attempts
